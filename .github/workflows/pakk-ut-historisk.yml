@@ -1,0 +1,42 @@
+name: Pakk ut historiske Excel-kilder
+on:
+  push:
+    branches: [feature/historisk-excel-2013-2025]
+    paths:
+      - '.github/workflows/pakk-ut-historisk.yml'
+permissions:
+  contents: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Gjenopprett arkiv fra tidligere commit og pakk ut
+        run: |
+          git show 5350e48cd62511f574324cc8f4b49d9100eed9c1:data/historisk/budsjetthistorikk_originaldata_2013_2025.zip > /tmp/historisk.zip
+          python - <<'PY'
+          from pathlib import Path
+          import zipfile
+          with zipfile.ZipFile("/tmp/historisk.zip") as z:
+              names=z.namelist()
+              expected={f"data/historisk/original/{year}_samlet_inputdata.xlsx" for year in range(2013,2026)}
+              expected.add("data/historisk/kilderegister.csv")
+              assert set(names)==expected, f"Uventet arkivinnhold: {set(names)^expected}"
+              for name in names:
+                  target=Path(name)
+                  target.parent.mkdir(parents=True,exist_ok=True)
+                  target.write_bytes(z.read(name))
+          PY
+      - name: Commit Excel-originaler (unntak fra gitignore)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data/historisk/original/*.xlsx
+          git add data/historisk/kilderegister.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "data: legg til 13 historiske Excel-originaler"
+            git push
+          fi

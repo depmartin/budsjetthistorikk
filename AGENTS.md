@@ -4,7 +4,7 @@
 
 Ved planlegging, ticketarbeid og review: les [arbeidsflyten](docs/arbeidsflyt.md) og følg trinnet oppgaven gjelder. Bekreftede krav og åpne produktbeslutninger finnes i [kravgrunnlaget](docs/krav.md).
 
-Før dokumentvisning, sammenligning av behandlingsledd eller konto-/årsvisning: les [målbildet og akseptkravene for de to inngangene](docs/to-visninger.md).
+Før dokumentvisning, sammenligning av behandlingsledd eller konto-/årsvisning: les [målbildet og akseptkravene for de to inngangene](docs/to-visninger.md), [konkretiseringsforslaget under #37](docs/visningspilot-plan.md) og dets kildegrunnlag/testmatrise. Forslag til nye byggetickets er ikke byggemandat.
 
 ## Agent skills
 
@@ -48,4 +48,4 @@ Før saksdokumenter, stikkordvisning eller frosset v2: les [B8-veiledningen](doc
 
 Før endringer i B8-Excel-visningen: les [B9-veiledningen](docs/b9-historikk.md) og [formatkontrollen](docs/research/b9/README.md). Historikk er en avledet hovedvisning med 13 kolonner; Historikkdetaljer bevarer tidligere felt. Kildenavn, beløpsbetydning, alternative grunnlag og globale avvik skal bevares uten ny faglig tolkning eller endret frosset JSON.
 
-Før omtalestrukturering eller post-/hendelseskobling under #32: les [O1-kildebevisene](docs/research/omtale-o1/README.md), [godkjent O2-oppdeling](docs/research/omtale-o1/o2-forslag.md) og [O2a-kontrakten](docs/omtale-pilot.md). #34/O2a er flettet i PR #36. #35/O2b har eget mandat 23. oktober; les også [O2b-kontrollen](docs/research/omtale-o2b/README.md) før videreføring. A-uttrekksversjonens betydning og gamle filer beholdes; B velges eksplisitt. 210-prøven har samlet komité, avrundet lønnsomtale og to posthendelser. Omtale lagres separat, er et frivillig supplement til uavhengig vedtaksinnlesning og endrer ikke hovedschema 5 eller gamle formater/ID-er. #10 står åpen.
+Før omtalestrukturering eller post-/hendelseskobling under #32: les [O1-kildebevisene](docs/research/omtale-o1/README.md), [godkjent O2-oppdeling](docs/research/omtale-o1/o2-forslag.md) og [O2a-kontrakten](docs/omtale-pilot.md). #34/O2a er flettet i PR #36 og #35/O2b i PR #39; les også [O2b-kontrollen](docs/research/omtale-o2b/README.md) før utvidelse. A-uttrekksversjonens betydning og gamle filer beholdes; B velges eksplisitt. 210-prøven har samlet komité, avrundet lønnsomtale og to posthendelser. Omtale lagres separat, er et frivillig supplement til uavhengig vedtaksinnlesning og endrer ikke hovedschema 5 eller gamle formater/ID-er. #10 står åpen.

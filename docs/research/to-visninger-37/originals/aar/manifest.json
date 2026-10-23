@@ -1,0 +1,190 @@
+{
+  "schema": "to-visninger-37-aar-research-1",
+  "checked_utc": "2026-10-23T10:43:09.471101+00:00",
+  "scope": "1429/1+22, budget 2024; separate initial 2025 sample; 510/1->1510/1 is contextual proposal mapping only",
+  "not_product_export": true,
+  "sources": [
+    {
+      "id": "40032928",
+      "path": "40032928.xml",
+      "representation": "derived_byte_excerpt",
+      "coverage": "one complete unchanged XML decision object with original wrapper; partial session",
+      "url": "https://data.stortinget.no/eksport/stortingsvedtak?sesjonid=2023-2024",
+      "retrieved_utc": "2026-10-22T07:04:03.260568+00:00",
+      "status": 200,
+      "sha256": "73bbcdc1d83a539ab4f3c2fad7b2b2972e003e742a5391a003d19c38149b6e71",
+      "bytes": 117054,
+      "parent_sha256": "66aa3ac5e93598fbbf2c02577c025395ea43a6bb7148e83a79f639bac9b09a57",
+      "parent_bytes": 6816165,
+      "block_start_byte_0based": 6092492,
+      "block_end_byte_exclusive": 6209173,
+      "prefix_end_byte_exclusive": 317,
+      "suffix_start_byte_0based": 6816110,
+      "parent_archive": "session-2023-2024.xml.gz",
+      "inserted_after_block_base64": "Cg==",
+      "derivation": "original prefix + unchanged complete object bytes + inserted LF separator + original suffix; not a newly fetched HTTP response"
+    },
+    {
+      "id": "40034038",
+      "path": "40034038.xml",
+      "representation": "derived_byte_excerpt",
+      "coverage": "one complete unchanged XML decision object with original wrapper; partial session",
+      "url": "https://data.stortinget.no/eksport/stortingsvedtak?sesjonid=2024-2025",
+      "retrieved_utc": "2026-10-22T07:04:03.260568+00:00",
+      "status": 200,
+      "sha256": "bd2d50e044e7bbfe1284a8b0dffb5a42ed12412e5b462c61c72614c2d000ee50",
+      "bytes": 117278,
+      "parent_sha256": "c5f3b90046d23a0e4cacb24f681a01d7e5fd4468ab68fc3d646dc832bb9a4b42",
+      "parent_bytes": 7479943,
+      "block_start_byte_0based": 5662496,
+      "block_end_byte_exclusive": 5779401,
+      "prefix_end_byte_exclusive": 317,
+      "suffix_start_byte_0based": 7479888,
+      "parent_archive": "session-2024-2025.xml.gz",
+      "inserted_after_block_base64": "Cg==",
+      "derivation": "original prefix + unchanged complete object bytes + inserted LF separator + original suffix; not a newly fetched HTTP response"
+    },
+    {
+      "id": "40033719",
+      "repository_path": "tests/fixtures/b3/40033719.xml",
+      "representation": "existing preserved fixture; not copied or fetched",
+      "sha256": "4113b987c8f939256d30ef6a4401cda358d9da90b5af19cbbbc37d0ec9d312b0",
+      "bytes": 1265833
+    },
+    {
+      "id": "40033719",
+      "repository_path": "tests/fixtures/b3/40033719.json",
+      "representation": "existing preserved fixture; not copied or fetched",
+      "sha256": "88da1ed5332372eba1a861111cf374da55133de1419aaa58d8c7e7b66afd502f",
+      "bytes": 714
+    },
+    {
+      "id": "40034048",
+      "repository_path": "tests/fixtures/b6/40034048.xml",
+      "representation": "existing preserved fixture; not copied or fetched",
+      "sha256": "2a540261f110b761a0213516c8ad72844d0285744ca0f1cdd4cb1afce06f0850",
+      "bytes": 6058
+    },
+    {
+      "id": "40034048",
+      "repository_path": "tests/fixtures/b6/40034048.json",
+      "representation": "existing preserved fixture; not copied or fetched",
+      "sha256": "1b43cc3e77fb8b216d3d0bd2d51739c4200b38aabcdac907afcdf47d0218a79b",
+      "bytes": 786
+    },
+    {
+      "id": "40034049",
+      "repository_path": "tests/fixtures/b8/40034049.xml",
+      "representation": "existing preserved fixture; not copied or fetched",
+      "sha256": "5f253a556d2ac512570899252b396bc38f068de5f4bd6820178e7de8ce41f3eb",
+      "bytes": 1692
+    },
+    {
+      "id": "tillegg2-vedlegg2.html",
+      "path": "tillegg2-vedlegg2.html",
+      "url": "https://www.regjeringen.no/no/dokumenter/prop.-1-s-tillegg-2-20232024/id3013673/?ch=6",
+      "representation": "complete HTTP HTML response for one chapter; partial document representation",
+      "retrieved_date": "2026-10-22",
+      "retrieved_utc": null,
+      "retrieval_precision": "date only; not invented exact timestamp",
+      "provenance_report": "docs/research/historisk-excel/p13-p2/precision.md",
+      "sha256": "db08dd2e55426ced1190d05d844ef4c4516956b6a666bdf1e42335ba157cfee3",
+      "bytes": 100729
+    },
+    {
+      "id": "tillegg2-ch2.html",
+      "path": "tillegg2-ch2.html",
+      "url": "https://www.regjeringen.no/no/dokumenter/prop.-1-s-tillegg-2-20232024/id3013673/?ch=2",
+      "representation": "complete HTTP HTML response for one chapter; partial document representation",
+      "retrieved_date": "2026-10-22",
+      "retrieved_utc": null,
+      "retrieval_precision": "date only; not invented exact timestamp",
+      "provenance_report": "docs/research/historisk-excel/p13-p2/precision.md",
+      "sha256": "75ff9f4cc1561c634272f790c4d3263581e9bc8ac1e09c7f0761ad582ec77b47",
+      "bytes": 79426
+    },
+    {
+      "path": "account-evidence.json",
+      "representation": "derived researcher locator ledger; not original or product JSON",
+      "sha256": "7a51a35d6f364e49ac74c090a64287a8d000725518335e204d147c39a14e9999",
+      "bytes": 16475
+    }
+  ],
+  "mapping_context": [
+    {
+      "xpath": "/html/body/main/div/div[3]/div[3]/div/div/table/tbody/tr[23]",
+      "cells": [
+        "KDD",
+        "510",
+        "1",
+        "762 891",
+        "",
+        "DFD",
+        "1510",
+        "1"
+      ]
+    }
+  ],
+  "validity_context": [
+    {
+      "xpath": "/html/body/main/div/div[3]/div[3]/div[4]/p[1]",
+      "text": "I Gul bok 2024 er det foreslått en bevilgning på 497,6 mill. kroner på posten. Som følge av opprettelsen av Digitaliserings- og forvaltningsdepartementet med virkning fra 1. januar 2024 skal Statsforvaltningsavdelingen, Avdeling for IT- og forvaltningspolitikk og Arbeidsgiverpolitisk avdeling overføres fra Kommunal- og distriktsdepartementet til Digitaliserings- og forvaltningsdepartementet."
+    },
+    {
+      "xpath": "/html/body/main/div/div[3]/div[3]/div[8]/p[1]",
+      "text": "Som følge av opprettelsen av Digitaliserings- og forvaltningsdepartementet med virkning fra 1. januar 2024 foreslås det opprettet et nytt kap. 1500 Digitaliserings- og forvaltningsdepartementet."
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "fetch-retry.json",
+      "representation": "research derived evidence or failed-attempt log; hash is file hash, not original-response hash",
+      "sha256": "727d2b5b7e26ebc6ef4e98bfbc7f431d690d072468cae06efaf72aa0b2ec34b4",
+      "bytes": 338
+    },
+    {
+      "path": "fetch.json",
+      "representation": "research derived evidence or failed-attempt log; hash is file hash, not original-response hash",
+      "sha256": "521f24134b8e36163953c0000bdcc163b1e983c7d82f59aaa1bb0fe119eb391f",
+      "bytes": 362
+    },
+    {
+      "path": "inns447-locators.json",
+      "representation": "research derived evidence or failed-attempt log; hash is file hash, not original-response hash",
+      "sha256": "832384b5b60ed8429790f6bb6fccca0066a0c3ef2997f57ed47b4a105194c032",
+      "bytes": 2476
+    },
+    {
+      "path": "kld2025-fetch.json",
+      "representation": "research derived evidence or failed-attempt log; hash is file hash, not original-response hash",
+      "sha256": "b6766fa6df7f14715ab86699e2bc2e08c0e4c01f7c9141240aab373c7740d81a",
+      "bytes": 370
+    }
+  ],
+  "preserved_parent_responses": [
+    {
+      "path": "session-2023-2024.xml.gz",
+      "compression": "gzip-lossless",
+      "compressed_sha256": "d083055643de38008fa373e54ea556cb06f5348f5d7d4978a323bba25e3f303f",
+      "compressed_bytes": 342281,
+      "original_sha256": "66aa3ac5e93598fbbf2c02577c025395ea43a6bb7148e83a79f639bac9b09a57",
+      "original_bytes": 6816165,
+      "metadata_path": "session-2023-2024.meta.json",
+      "metadata_note": "Transportmetadata copied; cookie/authorization/token keys excluded if present. Original HTTP response bytes are preserved unchanged after gzip decompression.",
+      "metadata_sha256": "56372509ffb4d04a7a265b969932327872b54d0279e43dfb762ef76f24b0f743",
+      "metadata_bytes": 381
+    },
+    {
+      "path": "session-2024-2025.xml.gz",
+      "compression": "gzip-lossless",
+      "compressed_sha256": "1ea276a5730a5196f4def7471e0bf6ae51a7878a4eac86922cc87a9a71200a6b",
+      "compressed_bytes": 391763,
+      "original_sha256": "c5f3b90046d23a0e4cacb24f681a01d7e5fd4468ab68fc3d646dc832bb9a4b42",
+      "original_bytes": 7479943,
+      "metadata_path": "session-2024-2025.meta.json",
+      "metadata_note": "Transportmetadata copied; cookie/authorization/token keys excluded if present. Original HTTP response bytes are preserved unchanged after gzip decompression.",
+      "metadata_sha256": "4ccc151e0ddd84c11b9c5e973c67762a6470a7bb5f2cd59a542d2847e6c5cd28",
+      "metadata_bytes": 381
+    }
+  ]
+}

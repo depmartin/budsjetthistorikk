@@ -34,3 +34,6 @@ docs/research/issue-2/aar/decision_inventory.csv text eol=crlf
 docs/research/omtale-o1/originals/* -text whitespace=-blank-at-eol,cr-at-eol
 docs/research/omtale-o1/*.json -text whitespace=cr-at-eol
 docs/research/omtale-o1/*.txt -text whitespace=-blank-at-eol,cr-at-eol
+# #37: kilder, avledninger og kontrolljournaler bindes til faktiske bytehasher.
+docs/research/to-visninger-37/originals/** -text whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab,cr-at-eol
+docs/research/to-visninger-37/verification.json -text

@@ -1,0 +1,30 @@
+{
+  "fixture_kind": "derived_excerpt",
+  "session_coverage": "partial",
+  "source_response": {
+    "file": "raw/session-2024-2025.xml",
+    "url": "https://data.stortinget.no/eksport/stortingsvedtak?sesjonid=2024-2025",
+    "fetched_utc": "2026-10-22T07:04:03.260568+00:00",
+    "status": 200,
+    "final_url": "https://data.stortinget.no/eksport/stortingsvedtak?sesjonid=2024-2025",
+    "bytes": 7479943,
+    "sha256": "c5f3b90046d23a0e4cacb24f681a01d7e5fd4468ab68fc3d646dc832bb9a4b42"
+  },
+  "source_local_path": "C:\\Users\\marti\\Documents\\ChatGPT\\Budsjetthistorikk\\work\\p2-decisions\\raw\\session-2024-2025.xml",
+  "source_repository_archive": "docs/research/to-visninger-37/originals/aar/session-2024-2025.xml.gz",
+  "source_response_sha256": "c5f3b90046d23a0e4cacb24f681a01d7e5fd4468ab68fc3d646dc832bb9a4b42",
+  "source_response_bytes": 7479943,
+  "object_ordinal_1": 585,
+  "object_start_byte_0": 2243118,
+  "object_end_byte_exclusive": 2244633,
+  "object_bytes": 1515,
+  "prefix_bytes": 317,
+  "suffix_start_byte_0": 7479886,
+  "suffix_bytes": 57,
+  "inserted_separator_bytes": 0,
+  "extraction": "parent[0:317] + parent[object_start_byte_0:object_end_byte_exclusive] + parent[7479886:7479943]; ingen innsatte byte eller linjeskift",
+  "file": "40034223.xml",
+  "sha256": "9225b91c98f49b7b4f3006285848b0ca6021c335a220393be8dbc514787a53eb",
+  "bytes": 1889,
+  "derived_utc": "2026-10-23T10:53:45.968754+00:00"
+}

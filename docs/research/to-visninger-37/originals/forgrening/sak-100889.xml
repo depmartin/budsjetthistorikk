@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<detaljert_sak xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://data.stortinget.no">
+  <respons_dato_tid>2026-10-23T12:47:24.3516595+02:00</respons_dato_tid>
+  <versjon>1.6</versjon>
+  <dokumentgruppe>proposisjon</dokumentgruppe>
+  <emne_liste>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>139</hovedemne_id>
+      <id>21</id>
+      <navn>Forurensning</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>163</hovedemne_id>
+      <id>22</id>
+      <navn>Internasjonalt samarbeid</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>139</hovedemne_id>
+      <id>23</id>
+      <navn>Naturvern</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>true</er_hovedemne>
+      <hovedemne_id>45</hovedemne_id>
+      <id>45</id>
+      <navn>Forskning</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>155</hovedemne_id>
+      <id>51</id>
+      <navn>Departementer</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>6</hovedemne_id>
+      <id>121</id>
+      <navn>Kulturvern</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>184</hovedemne_id>
+      <id>135</id>
+      <navn>Kommunenes økonomi</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>true</er_hovedemne>
+      <hovedemne_id>139</hovedemne_id>
+      <id>139</id>
+      <navn>Miljøvern</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>2</hovedemne_id>
+      <id>143</id>
+      <navn>Sjøfart</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>155</hovedemne_id>
+      <id>157</id>
+      <navn>Statseiendommer</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>163</hovedemne_id>
+      <id>174</id>
+      <navn>Utviklingssamarbeid</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>true</er_hovedemne>
+      <hovedemne_id>175</hovedemne_id>
+      <id>175</id>
+      <navn>Polarområder</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>175</hovedemne_id>
+      <id>176</id>
+      <navn>Svalbard</navn>
+      <underemne_liste />
+    </emne>
+    <emne>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <er_hovedemne>false</er_hovedemne>
+      <hovedemne_id>113</hovedemne_id>
+      <id>223</id>
+      <navn>Industri</navn>
+      <underemne_liste />
+    </emne>
+  </emne_liste>
+  <ferdigbehandlet>true</ferdigbehandlet>
+  <henvisning>Prop. 16 S (2024-2025), unntatt kap. 1429, Innst. 95 S (2024-2025)</henvisning>
+  <id>100889</id>
+  <innstillingstekst>Innstilling fra energi- og miljøkomiteen om Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet</innstillingstekst>
+  <komite>
+    <respons_dato_tid>2026-10-23T12:00:55.1219312+02:00</respons_dato_tid>
+    <versjon>1.6</versjon>
+    <id>ENERGI</id>
+    <navn>Energi- og miljøkomiteen</navn>
+  </komite>
+  <korttittel>Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet</korttittel>
+  <kortvedtak>Stortinget har behandlet et forslag fra klima- og miljødepartementet om endringer i statsbudsjettet 2024 på KLDs område. 
+Som følge av budsjettenigheten mellom regjeringspartiene og SV foreslo disse partiene i innstillingsarbeidet å øke støtten til skogvern med 270 mill. kroner i forbindelse med denne endringsproposisjonen. 
+Forslagene fra regjeringen ble enstemmig vedtatt av Stortinget. </kortvedtak>
+  <parentestekst i:nil="true" />
+  <publikasjon_referanse_liste>
+    <publikasjon_referanse>
+      <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <eksport_id i:nil="true" />
+      <lenke_tekst>Prop. 16 S (2024-2025)</lenke_tekst>
+      <lenke_url>http://www.regjeringen.no/id/PRP202420250016000DDDEPIS</lenke_url>
+      <type>regjering</type>
+      <undertype>proposisjon</undertype>
+    </publikasjon_referanse>
+    <publikasjon_referanse>
+      <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <eksport_id>refs-202425-11-26</eksport_id>
+      <lenke_tekst>Stortingsreferat 26.11.2024</lenke_tekst>
+      <lenke_url>//www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2024-2025/refs-202425-11-26/referatsaker/</lenke_url>
+      <type>referat</type>
+      <undertype>storting</undertype>
+    </publikasjon_referanse>
+    <publikasjon_referanse>
+      <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <eksport_id>inns-202425-095s</eksport_id>
+      <lenke_tekst>Innst. 95 S (2024-2025)</lenke_tekst>
+      <lenke_url>//www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2024-2025/inns-202425-095s/</lenke_url>
+      <type>innstilling</type>
+      <undertype>storting</undertype>
+    </publikasjon_referanse>
+    <publikasjon_referanse>
+      <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <eksport_id>refs-202425-12-18</eksport_id>
+      <lenke_tekst>Stortingsreferat 18.12.2024</lenke_tekst>
+      <lenke_url>//www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2024-2025/refs-202425-12-18/13</lenke_url>
+      <type>referat</type>
+      <undertype>storting</undertype>
+    </publikasjon_referanse>
+    <publikasjon_referanse>
+      <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <eksport_id>refs-202425-12-18</eksport_id>
+      <lenke_tekst>Stortingsreferat 18.12.2024</lenke_tekst>
+      <lenke_url>//www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Referater/Stortinget/2024-2025/refs-202425-12-18/voteringer#181224-13</lenke_url>
+      <type>referat</type>
+      <undertype>storting</undertype>
+    </publikasjon_referanse>
+  </publikasjon_referanse_liste>
+  <sak_nummer>16</sak_nummer>
+  <sak_opphav>
+    <respons_dato_tid>2026-10-23T12:47:24.3516595+02:00</respons_dato_tid>
+    <versjon>1.6</versjon>
+    <forslagstiller_liste />
+  </sak_opphav>
+  <sak_relasjon_liste>
+    <sak_relasjon>
+      <respons_dato_tid>2026-10-23T12:47:24.4297877+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <relasjon_type>sammekilde</relasjon_type>
+      <relatert_sak_id>100927</relatert_sak_id>
+      <relatert_sak_korttittel>Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet</relatert_sak_korttittel>
+    </sak_relasjon>
+  </sak_relasjon_liste>
+  <sak_sesjon>2024-2025</sak_sesjon>
+  <saksgang>
+    <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+    <versjon>1.6</versjon>
+    <id>KPRPFORS</id>
+    <navn>KForslag fra Regjeringen</navn>
+    <saksgang_steg_liste>
+      <saksgang_steg>
+        <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+        <versjon>1.6</versjon>
+        <id>SAK</id>
+        <navn>Forslag</navn>
+        <saksgang_hendelse_liste>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>01.01.0001 00:00:00</dato>
+            <id>FRADEP</id>
+            <publikasjonsReferanse i:nil="true" />
+            <sorterings_nummer>10000</sorterings_nummer>
+            <stegnummer>1</stegnummer>
+          </saksgang_hendelse>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>01.01.0001 00:00:00</dato>
+            <id>SAK</id>
+            <publikasjonsReferanse i:nil="true" />
+            <sorterings_nummer>20000</sorterings_nummer>
+            <stegnummer>1</stegnummer>
+          </saksgang_hendelse>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>22.11.2024 00:00:00</dato>
+            <id>FREMMET</id>
+            <publikasjonsReferanse i:nil="true" />
+            <sorterings_nummer>30000</sorterings_nummer>
+            <stegnummer>1</stegnummer>
+          </saksgang_hendelse>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>26.11.2024 00:00:00</dato>
+            <id>REFS</id>
+            <publikasjonsReferanse>http://www.stortinget.no/stid/2024/si241126.html</publikasjonsReferanse>
+            <sorterings_nummer>40010</sorterings_nummer>
+            <stegnummer>1</stegnummer>
+          </saksgang_hendelse>
+        </saksgang_hendelse_liste>
+        <steg_nummer>1</steg_nummer>
+        <uaktuell>false</uaktuell>
+      </saksgang_steg>
+      <saksgang_steg>
+        <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+        <versjon>1.6</versjon>
+        <id>KOMBEH</id>
+        <navn>Komitebehandling</navn>
+        <saksgang_hendelse_liste>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>26.11.2024 00:00:00</dato>
+            <id>SENDT</id>
+            <publikasjonsReferanse i:nil="true" />
+            <sorterings_nummer>50000</sorterings_nummer>
+            <stegnummer>2</stegnummer>
+          </saksgang_hendelse>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>01.01.0001 00:00:00</dato>
+            <id>KOMITE</id>
+            <publikasjonsReferanse i:nil="true" />
+            <sorterings_nummer>60000</sorterings_nummer>
+            <stegnummer>2</stegnummer>
+          </saksgang_hendelse>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>01.01.0001 00:00:00</dato>
+            <id>ORDFORER</id>
+            <publikasjonsReferanse i:nil="true" />
+            <sorterings_nummer>90000</sorterings_nummer>
+            <stegnummer>2</stegnummer>
+          </saksgang_hendelse>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>10.12.2024 00:00:00</dato>
+            <id>AVGITT</id>
+            <publikasjonsReferanse>http://www.stortinget.no/inns/2024/inns-202425-095.html</publikasjonsReferanse>
+            <sorterings_nummer>110000</sorterings_nummer>
+            <stegnummer>2</stegnummer>
+          </saksgang_hendelse>
+        </saksgang_hendelse_liste>
+        <steg_nummer>2</steg_nummer>
+        <uaktuell>false</uaktuell>
+      </saksgang_steg>
+      <saksgang_steg>
+        <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+        <versjon>1.6</versjon>
+        <id>DEBATT</id>
+        <navn>Debatt og vedtak</navn>
+        <saksgang_hendelse_liste>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>18.12.2024 00:00:00</dato>
+            <id>BEHS</id>
+            <publikasjonsReferanse>http://www.stortinget.no/stid/2024/si241218-13.html</publikasjonsReferanse>
+            <sorterings_nummer>130000</sorterings_nummer>
+            <stegnummer>3</stegnummer>
+          </saksgang_hendelse>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>18.12.2024 00:00:00</dato>
+            <id>VOT</id>
+            <publikasjonsReferanse i:nil="true" />
+            <sorterings_nummer>135500</sorterings_nummer>
+            <stegnummer>3</stegnummer>
+          </saksgang_hendelse>
+          <saksgang_hendelse>
+            <respons_dato_tid>2026-10-23T12:47:24.5079207+02:00</respons_dato_tid>
+            <versjon>1.6</versjon>
+            <dato>01.01.0001 00:00:00</dato>
+            <id>VEDTAK</id>
+            <publikasjonsReferanse i:nil="true" />
+            <sorterings_nummer>135600</sorterings_nummer>
+            <stegnummer>3</stegnummer>
+          </saksgang_hendelse>
+        </saksgang_hendelse_liste>
+        <steg_nummer>3</steg_nummer>
+        <uaktuell>false</uaktuell>
+      </saksgang_steg>
+    </saksgang_steg_liste>
+  </saksgang>
+  <saksordfoerer_liste>
+    <representant>
+      <respons_dato_tid>2026-10-23T12:25:14.1240317+02:00</respons_dato_tid>
+      <versjon>1.6</versjon>
+      <doedsdato i:nil="true" />
+      <etternavn>Kjerkol</etternavn>
+      <foedselsdato>1975-05-18T00:00:00</foedselsdato>
+      <fornavn>Ingvild</fornavn>
+      <id>INK</id>
+      <kjoenn>kvinne</kjoenn>
+      <fylke>
+        <respons_dato_tid>2026-10-23T06:54:56.2714218+02:00</respons_dato_tid>
+        <versjon>1.6</versjon>
+        <historisk_fylke>false</historisk_fylke>
+        <id>NT</id>
+        <navn>Nord-Trøndelag</navn>
+      </fylke>
+      <parti>
+        <respons_dato_tid>2026-10-23T01:00:18.3366456+02:00</respons_dato_tid>
+        <versjon>1.6</versjon>
+        <id>A</id>
+        <navn>Arbeiderpartiet</navn>
+        <representert_parti>true</representert_parti>
+      </parti>
+      <vara_representant>false</vara_representant>
+    </representant>
+  </saksordfoerer_liste>
+  <status>behandlet</status>
+  <stikkord_liste xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <tittel>Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet</tittel>
+  <type>budsjett</type>
+  <vedtakstekst i:nil="true" />
+</detaljert_sak>

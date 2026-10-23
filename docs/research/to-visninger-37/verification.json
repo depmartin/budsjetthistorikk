@@ -1,0 +1,207 @@
+{
+  "checked_utc": "2026-10-23T11:03:37.212Z",
+  "base_commit": "542316088cbca39e35d7b8f26cdd0aee0e96161c",
+  "scope": "documentation and source evidence only; not product acceptance",
+  "hash_checks": [
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/40032928.xml",
+      "sha256": "73bbcdc1d83a539ab4f3c2fad7b2b2972e003e742a5391a003d19c38149b6e71",
+      "bytes": 117054
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/40034038.xml",
+      "sha256": "bd2d50e044e7bbfe1284a8b0dffb5a42ed12412e5b462c61c72614c2d000ee50",
+      "bytes": 117278
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/tests/fixtures/b3/40033719.xml",
+      "sha256": "4113b987c8f939256d30ef6a4401cda358d9da90b5af19cbbbc37d0ec9d312b0",
+      "bytes": 1265833
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/tests/fixtures/b3/40033719.json",
+      "sha256": "88da1ed5332372eba1a861111cf374da55133de1419aaa58d8c7e7b66afd502f",
+      "bytes": 714
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/tests/fixtures/b6/40034048.xml",
+      "sha256": "2a540261f110b761a0213516c8ad72844d0285744ca0f1cdd4cb1afce06f0850",
+      "bytes": 6058
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/tests/fixtures/b6/40034048.json",
+      "sha256": "1b43cc3e77fb8b216d3d0bd2d51739c4200b38aabcdac907afcdf47d0218a79b",
+      "bytes": 786
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/tests/fixtures/b8/40034049.xml",
+      "sha256": "5f253a556d2ac512570899252b396bc38f068de5f4bd6820178e7de8ce41f3eb",
+      "bytes": 1692
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/tillegg2-vedlegg2.html",
+      "sha256": "db08dd2e55426ced1190d05d844ef4c4516956b6a666bdf1e42335ba157cfee3",
+      "bytes": 100729
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/tillegg2-ch2.html",
+      "sha256": "75ff9f4cc1561c634272f790c4d3263581e9bc8ac1e09c7f0761ad582ec77b47",
+      "bytes": 79426
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/account-evidence.json",
+      "sha256": "7a51a35d6f364e49ac74c090a64287a8d000725518335e204d147c39a14e9999",
+      "bytes": 16475
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/fetch-retry.json",
+      "sha256": "727d2b5b7e26ebc6ef4e98bfbc7f431d690d072468cae06efaf72aa0b2ec34b4",
+      "bytes": 338
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/fetch.json",
+      "sha256": "521f24134b8e36163953c0000bdcc163b1e983c7d82f59aaa1bb0fe119eb391f",
+      "bytes": 362
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/inns447-locators.json",
+      "sha256": "832384b5b60ed8429790f6bb6fccca0066a0c3ef2997f57ed47b4a105194c032",
+      "bytes": 2476
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/kld2025-fetch.json",
+      "sha256": "b6766fa6df7f14715ab86699e2bc2e08c0e4c01f7c9141240aab373c7740d81a",
+      "bytes": 370
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/session-2023-2024.xml.gz",
+      "sha256": "d083055643de38008fa373e54ea556cb06f5348f5d7d4978a323bba25e3f303f",
+      "bytes": 342281
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/session-2023-2024.meta.json",
+      "sha256": "56372509ffb4d04a7a265b969932327872b54d0279e43dfb762ef76f24b0f743",
+      "bytes": 381
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/session-2024-2025.xml.gz",
+      "sha256": "1ea276a5730a5196f4def7471e0bf6ae51a7878a4eac86922cc87a9a71200a6b",
+      "bytes": 391763
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/aar/session-2024-2025.meta.json",
+      "sha256": "4ccc151e0ddd84c11b9c5e973c67762a6470a7bb5f2cd59a542d2847e6c5cd28",
+      "bytes": 381
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/komite/prop25s-ch4.html",
+      "sha256": "17922400028d80971540293ace9d6904d3be86b8d97d880a5b6a18bdd2bb5ecf",
+      "bytes": 104457
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/komite/prop25s-ch2.html",
+      "sha256": "87205b4e91472cdef72f73abe482d01b1981a8cd4c0f4863951bb8a2d4d20c7b",
+      "bytes": 92231
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/komite/inns85s.html",
+      "sha256": "0adeb21331ef20b44186ae6fae539bd304d4e9fe2a22aa64698469c90804c657",
+      "bytes": 346750
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/komite/vedtak40034045.html",
+      "sha256": "5c7743ddfe2cc62db9db7a993d95d3abb31f55b884dbb7ca2cb1a08c774654ec",
+      "bytes": 4641
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/komite/prop25s.pdf",
+      "sha256": "aeb725790fa208766fc15d24082346ce8c5295c26208a04f7b266b2bce37dd1a",
+      "bytes": 777380
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/komite/inns85s.pdf",
+      "sha256": "961591a7f80608e9b15002de1b06f8e51162879b0f0137d0ef38eb3254404288",
+      "bytes": 560552
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/komite/vedtak40034045-sak100887.html",
+      "sha256": "232e06bc5ed62185a856016fea4ed609429d8c654dc3070d8698b3085102c1ab",
+      "bytes": 182316
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/komite/sak100887.xml",
+      "sha256": "cfaf7b451df64c4a4cad5f437f04a06da0f1e2377159a6cde6cee6ee2f76fb2e",
+      "bytes": 17096
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/inns95s.html",
+      "sha256": "ae61227fa83adf04fb45956b1bd714a75592bbc1d6c70da300e554afef806aa6",
+      "bytes": 283123
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/inns95s.pdf",
+      "sha256": "7a78167c7eafc500938e4ac39d8ed9febec1f6e7e6ce337acc4b7a58d0d14635",
+      "bytes": 382025
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/sak-100889.xml",
+      "sha256": "435985bb9cc454d32f4b5c2e0df1e07ef48146dfdb2bf4a456db4df091f00859",
+      "bytes": 15910
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/sak-100889.html",
+      "sha256": "279943f8df41d5ae940284c11fd6773b52921f45e093265c046c55b888a2026b",
+      "bytes": 74624
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/votering-181224.html",
+      "sha256": "88553153fd4011b6b3aa041c7899701bd7f7a938f2ad1984aecd4c441d24a9d9",
+      "bytes": 4800053
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/vedtak-100889.html",
+      "sha256": "f58ec94336da10d04046e09683bf83d6a72d3a2ddbf42a7b106f194472ef72f3",
+      "bytes": 215031
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/40034220.xml",
+      "sha256": "d4c473bf1ee95ec3edacce490586c0df5ec233d356e4c236fd9d765704b00490",
+      "bytes": 64868
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/40034221.xml",
+      "sha256": "5523b3b70066f58a19c2a57dad37c4b83d601b28cbfbbcc8afb07c99f275cfd1",
+      "bytes": 1867
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/40034222.xml",
+      "sha256": "cdc501f41586cfda1116f280f940c508314556c1e18552a68de842aae53ad162",
+      "bytes": 4954
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/40034223.xml",
+      "sha256": "9225b91c98f49b7b4f3006285848b0ca6021c335a220393be8dbc514787a53eb",
+      "bytes": 1889
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/40034224.xml",
+      "sha256": "216186f2993d0844c81ac3a46f995df2a262a0afb930e2f44da27134aebc0fd6",
+      "bytes": 2270
+    },
+    {
+      "file": "C:/Users/marti/Documents/ChatGPT/Budsjetthistorikk/work/visninger-37/docs/research/to-visninger-37/originals/forgrening/40034225.xml",
+      "sha256": "e41f0de65ee6aeb438005af7b4f1230ad1268e7c5545bc8b027cae20b0e14dcd",
+      "bytes": 2715
+    }
+  ],
+  "parent_responses_decompressed_and_hash_verified": 2,
+  "excerpts_reconstructed_byte_exact": 8,
+  "json_files_parsed": 22,
+  "local_markdown_targets_checked": 320,
+  "missing_local_targets": [],
+  "independent_document_review": {
+    "result": "no_material_findings",
+    "scope": "numbers, actors, evidence, V1-V10, ticket scope/dependencies, compatibility and independent ingestion; no product acceptance"
+  },
+  "product_tests_run": false
+}

@@ -2,6 +2,17 @@
 
 Dette er faglige og tekniske funn som skal brukes på tvers av agentøkter. Dokumentet ligger på main og gjelder også før hele forskningsarbeidet i #2 er ferdig. Funn, kildebevis og konsekvens holdes samlet.
 
+## To visninger: kildekontrollert grunnlag under #37
+
+**Kontrollert 23. oktober 2026 mot main `5423160`:** [#37-undersøkelsen](research/to-visninger-37/README.md) har bevart originaler, hasher, presise tekst-/tabellokatorer, aktør- og vedtakelsesbevis. [Planen](visningspilot-plan.md), [testmatrisen](research/to-visninger-37/testmatrise.md) og [ticketutkastene](research/to-visninger-37/tickets/README.md) er forslag før implementering. O2b er levert i PR #39; det er ingen generell dokument-/årsvisning.
+
+- Hele Innst. 81 S gjelder 1429/1, /22 og tekst-/fullmaktspost /60. Prop./innstilling/210 har to identiske beløpstrioer; 211 gjelder fullmakt uten bevilgningsbeløp. Bevar gamle observasjoners `round='uavklart'`; ny nysalderingskontekst må bindes separat. Foreslått T1 bruker 18 kildefelt med tre roller, men fortsatt bare seks vedtaksfelt/to monetære posthendelser.
+- Prop. 16 S har 37 endringstabellgrupper og 45 ulike kontoangivelser inklusive kontekst/fullmakt. Beriktiget Innst. 95 S har de øvrige 35 gruppene og ny 1420/32 (+270 mill.), alle eksakt belagt i 359. Manglende Prop.-rad 32 er ikke regjeringsforslag null. Hele forgreningen gir 38 monetære postendringer og seks separate fullmaktsvedtak. Ap/Sp/SVs begrunnelse, samlet tilråding og enstemmig vedtak skilles. Urettet innstilling/rettelseshistorikk er uavklart; endret HTTP-hash beviser ikke semantisk rettelse. [Grenbevis](research/to-visninger-37/forgrening.md).
+- Autentisk komitéendring er funnet på **315/78**: +119 mill. i Prop. 25 S, +129 mill. fra Ap/Sp/SV i Innst. 85 S og vedtatt i 208 med 63–35. Motstemmer beviser ikke et tallfestet mindretallsalternativ. [Aktør-/voteringsbevis](research/to-visninger-37/komiteendring.md).
+- Valgte vedtak 341→857→210 gir fem 2024-posthendelser/elleve vedtaksfelt på 1429/1 og /22, ikke komplett årsdekning. Separat 201 gjelder 2025 til tross for samme dato som 210. Like kontokoder beviser ikke kontinuitet. Hele tidligere sesjonsresponser er nå bevart tapsfritt i repoet; avledede objekter har eksakte byteoppskrifter. [Årsbevis og dekningshull](research/to-visninger-37/konto-aar.md).
+
+Praktisk konsekvens: samme versjonerte kildegrunnlag må drive begge innganger og faktisk gjenleste JSON-/Excel-filer. Rådekning, strukturering og faglig avklaring er separate statuser. Positivt tallfestet alternativ, kontinuitet over år og full årsdekning har egne åpne kildeporter. Ingen gamle ID-er, tolkninger eller formater omskrives; nye vedtak skal fortsatt registreres uavhengig. #10 forblir åpen.
+
 ## Omtale for vedtak 210: O1-kildebevis
 
 **Kontrollert 22. oktober 2026 under #32:** [O1-rapporten](research/omtale-o1/README.md) bevarer seks offisielle originalrepresentasjoner med HTTP-metadata, SHA-256 og presise HTML-/PDF-lokatorer. Prop. 16 S forklarer 3 mill. kroner fra 1429/22 til egne stillinger på 1429/1, samt et avrundet lønnsanslag på 2,8 mill. Innst. 81 S støtter forslaget fra samlet komité; plenumsreferatet dokumenterer enstemmig vedtakelse. Eksakte vedtaksendringer er +5 796 000 og −3 000 000. Koblingen dokumenteres med postomtale, konkrete forslag/tilråding, votering og 210/40034048, utover felles saksmetadata.

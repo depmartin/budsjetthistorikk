@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stortingsvedtak_oversikt xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://data.stortinget.no">
+  <respons_dato_tid>2026-10-22T09:04:03.5361627+02:00</respons_dato_tid>
+  <versjon>1.6</versjon>
+  <sesjon_id>2024-2025</sesjon_id>
+  <stortingsvedtak_liste>
+    <stortingsvedtak>
+      <id>40034223</id>
+      <sak_id>100889</sak_id>
+      <sak_lenke_url>//www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100889</sak_lenke_url>
+      <stortingsvedtak_dato_tid>2024-12-18T00:00:00</stortingsvedtak_dato_tid>
+      <stortingsvedtak_lenke_url>//www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Vedtak/Sak/?did=40034223&amp;p=100889</stortingsvedtak_lenke_url>
+      <stortingsvedtak_nummer>362</stortingsvedtak_nummer>
+      <stortingsvedtak_tekst>&lt;div class='strtngt_vedtaks'&gt;
+  &lt;div class='strtngt_romertallseksjon' data-strtngt-romertallseksjon-romertall='iv'&gt;
+    &lt;div class='strtngt_undertittel'&gt;
+      Fullmakt til å inngå forpliktelser
+    &lt;/div&gt;
+    &lt;p class='strtngt_a type_innrykk'&gt;
+      Stortinget samtykker i at Klima- og miljødepartementet
+i 2024 kan pådra forpliktelser for fremtidige år til å kjøpe inn
+materiell og til å gi tilsagn om tilskudd ut over gitte bevilgninger
+under kap. 1420 Miljødirektoratet, postene 39, 69 og 79 Oppryddingstiltak,
+men slik at samlet ramme for nye forpliktelser og gammelt ansvar ikke
+overstiger 16,3 mill. kroner.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</stortingsvedtak_tekst>
+      <stortingsvedtak_tittel>Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet</stortingsvedtak_tittel>
+      <stortingsvedtak_type>
+        <id>ANNET</id>
+        <navn>Allminnelige vedtak</navn>
+      </stortingsvedtak_type>
+    </stortingsvedtak>
+  </stortingsvedtak_liste>
+</stortingsvedtak_oversikt>

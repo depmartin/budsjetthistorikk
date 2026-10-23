@@ -1,0 +1,137 @@
+{
+  "performed_utc": "2026-10-23T10:53:46.387757+00:00",
+  "hash_checks": [
+    {
+      "file": "inns95s.html",
+      "sha256": "ae61227fa83adf04fb45956b1bd714a75592bbc1d6c70da300e554afef806aa6",
+      "bytes": 283123,
+      "verified": true
+    },
+    {
+      "file": "inns95s.pdf",
+      "sha256": "7a78167c7eafc500938e4ac39d8ed9febec1f6e7e6ce337acc4b7a58d0d14635",
+      "bytes": 382025,
+      "verified": true
+    },
+    {
+      "file": "sak-100889.xml",
+      "sha256": "435985bb9cc454d32f4b5c2e0df1e07ef48146dfdb2bf4a456db4df091f00859",
+      "bytes": 15910,
+      "verified": true
+    },
+    {
+      "file": "sak-100889.html",
+      "sha256": "279943f8df41d5ae940284c11fd6773b52921f45e093265c046c55b888a2026b",
+      "bytes": 74624,
+      "verified": true
+    },
+    {
+      "file": "votering-181224.html",
+      "sha256": "88553153fd4011b6b3aa041c7899701bd7f7a938f2ad1984aecd4c441d24a9d9",
+      "bytes": 4800053,
+      "verified": true
+    },
+    {
+      "file": "vedtak-100889.html",
+      "sha256": "f58ec94336da10d04046e09683bf83d6a72d3a2ddbf42a7b106f194472ef72f3",
+      "bytes": 215031,
+      "verified": true
+    },
+    {
+      "file": "docs\\research\\omtale-o1\\originals\\prop16s.pdf",
+      "sha256": "677716056269c07b8ec81bcae91d814b975123791635548281038d9beb3aa5db",
+      "bytes": 733075,
+      "reused_unmodified": true
+    },
+    {
+      "file": "docs\\research\\omtale-o1\\originals\\prop16s-ch2.html",
+      "sha256": "258d26e6d324bde709bf3d1cb660d7eb6f4248f537d4b0c77e095f17697cf8df",
+      "bytes": 100808,
+      "reused_unmodified": true
+    },
+    {
+      "file": "docs\\research\\omtale-o1\\originals\\prop16s-ch4.html",
+      "sha256": "ff1c53688a155c2cb9d8d37a8d40550e56b5c5c1d2d171c30519ef49227eca5e",
+      "bytes": 118163,
+      "reused_unmodified": true
+    },
+    {
+      "file": "docs\\research\\omtale-o1\\originals\\inns81s.html",
+      "sha256": "e7069d74e911fb868812bb34f68b41d210b4e33035c1317cbedd296ac1101e95",
+      "bytes": 107925,
+      "reused_unmodified": true
+    },
+    {
+      "file": "docs\\research\\omtale-o1\\originals\\inns81s.pdf",
+      "sha256": "5a29d0553991759d8ddc234899647e9e6b5e1f2885bf13edccfb26105a6be496",
+      "bytes": 331688,
+      "reused_unmodified": true
+    },
+    {
+      "file": "docs\\research\\omtale-o1\\originals\\votering-161224.html",
+      "sha256": "22170a60f769e89642b2e52525899903020de25938aa2b566ea28d11f85fb2e5",
+      "bytes": 2094710,
+      "reused_unmodified": true
+    },
+    {
+      "file": "tests/fixtures/b6/40034048.xml",
+      "sha256": "2a540261f110b761a0213516c8ad72844d0285744ca0f1cdd4cb1afce06f0850",
+      "bytes": 6058,
+      "reused_unmodified": true
+    },
+    {
+      "file": "tests/fixtures/b6/40034048.json",
+      "sha256": "1b43cc3e77fb8b216d3d0bd2d51739c4200b38aabcdac907afcdf47d0218a79b",
+      "bytes": 786,
+      "reused_unmodified": true
+    },
+    {
+      "file": "tests/fixtures/b8/sak-100927.xml",
+      "sha256": "2ee25b327b78772523d56317c752e35f5134eef60db9536f6dea3c94ad8fed27",
+      "bytes": 12383,
+      "reused_unmodified": true
+    },
+    {
+      "file": "tests/fixtures/b8/sak-100927.json",
+      "sha256": "07b85b79438fa1cfcc8774c36291fc28d0cfdc7d429ca82e1e5810bca89ac895",
+      "bytes": 1560,
+      "reused_unmodified": true
+    },
+    {
+      "file": "inns95s-20261022-reused.html",
+      "sha256": "1f159a3ca1df3e0bc35617644d0b36f7c92fd5684947f6eca5510595af533a03",
+      "bytes": 283141,
+      "reused_unmodified": true,
+      "all_four_sections_normalized_text_equal": true
+    }
+  ],
+  "summary": {
+    "prop_change_posts": 37,
+    "prop_chapters": 15,
+    "committee_change_posts": 36,
+    "committee_chapters": 14,
+    "api_change_posts": 36,
+    "decision_web_change_posts": 36,
+    "plenary_change_posts": 36,
+    "equal_proposal_committee": 35,
+    "proposal_only": [
+      "1429/1",
+      "1429/22"
+    ],
+    "committee_only": [
+      "1420/32"
+    ],
+    "different": [],
+    "committee_api_exact": true,
+    "committee_web_exact": true,
+    "committee_plenary_exact": true
+  },
+  "unique_keys_and_all_before_plus_delta_equals_after": true,
+  "excerpts_reconstructed_from_preserved_gzip_parent": true,
+  "inserted_excerpt_bytes": 0,
+  "original_response_objects": 1260,
+  "selected_case_objects": 6,
+  "pdf_pages": 8,
+  "pdf_substantive_pages": 5,
+  "pdf_visual_inspection": "pdf-page-1.png through pdf-page-5.png visually inspected 2026-10-23; title Beriktiget, scope exclusion, table continuations, new1420/32 row and all authority sections visible. Rendered using pypdfium2."
+}

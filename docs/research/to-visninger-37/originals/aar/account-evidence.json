@@ -1,0 +1,582 @@
+{
+  "schema": "research-locators-only-1",
+  "not_product_export": true,
+  "records": [
+    {
+      "session": "2023-2024",
+      "id": "40033719",
+      "number": "857",
+      "date": "2024-06-21T00:00:00",
+      "title": "Revidert nasjonalbudsjett 2024",
+      "raw_budget_context": [
+        "I statsbudsjettet for 2024 gjøres følgende endringer:"
+      ],
+      "chapter_rows": [
+        {
+          "locator": "table[1]/tr[822]",
+          "cells": [
+            "1429",
+            "",
+            "Riksantikvaren",
+            "",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[823]",
+          "cells": [
+            "",
+            "1",
+            "Driftsutgifter , reduseres med",
+            "",
+            "1 000 000"
+          ]
+        },
+        {
+          "locator": "table[1]/tr[824]",
+          "cells": [
+            "",
+            "",
+            "fra kr 161 243 000 til kr 160 243 000",
+            "",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[825]",
+          "cells": [
+            "",
+            "60",
+            "Kulturminnekompetanse i kommunene , økes med",
+            "",
+            "5 000 000"
+          ]
+        },
+        {
+          "locator": "table[1]/tr[826]",
+          "cells": [
+            "",
+            "",
+            "fra kr 9 406 000 til kr 14 406 000",
+            "",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[827]",
+          "cells": [
+            "",
+            "70",
+            "Tilskudd til automatisk fredete og andre arkeologiske kulturminner , kan overføres, økes med",
+            "",
+            "2 000 000"
+          ]
+        },
+        {
+          "locator": "table[1]/tr[828]",
+          "cells": [
+            "",
+            "",
+            "fra kr 41 522 000 til kr 43 522 000",
+            "",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[829]",
+          "cells": [
+            "",
+            "71",
+            "Tilskudd til fredete kulturminner i privat eie, kulturmiljøer og kulturlandskap , kan overføres, reduseres med",
+            "",
+            "2 000 000"
+          ]
+        },
+        {
+          "locator": "table[1]/tr[830]",
+          "cells": [
+            "",
+            "",
+            "fra kr 151 889 000 til kr 149 889 000",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "session": "2023-2024",
+      "id": "40032928",
+      "number": "341",
+      "date": "2023-12-19T00:00:00",
+      "title": "Statsbudsjettet 2024 (kapitler fordelt til familie- og kulturkomiteen)",
+      "raw_budget_context": [
+        "På statsbudsjettet for 2024 bevilges under:"
+      ],
+      "chapter_rows": [
+        {
+          "locator": "table[1]/tr[101]",
+          "cells": [
+            "1429",
+            "",
+            "Riksantikvaren",
+            "",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[102]",
+          "cells": [
+            "",
+            "1",
+            "Driftsutgifter",
+            "161 243 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[103]",
+          "cells": [
+            "",
+            "21",
+            "Spesielle driftsutgifter",
+            "31 777 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[104]",
+          "cells": [
+            "",
+            "22",
+            "Flerårige prosjekter kulturminneforvaltning , kan overføres",
+            "32 185 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[105]",
+          "cells": [
+            "",
+            "60",
+            "Kulturminnekompetanse i kommunene",
+            "9 406 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[106]",
+          "cells": [
+            "",
+            "70",
+            "Tilskudd til automatisk fredete og andre arkeologiske kulturminner , kan overføres",
+            "41 522 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[107]",
+          "cells": [
+            "",
+            "71",
+            "Tilskudd til fredete kulturminner i privat eie, kulturmiljøer og kulturlandskap , kan overføres",
+            "151 889 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[108]",
+          "cells": [
+            "",
+            "72",
+            "Tilskudd til tekniske og industrielle kulturminner , kan overføres",
+            "62 298 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[109]",
+          "cells": [
+            "",
+            "73",
+            "Tilskudd til bygninger og anlegg fra middelalderen og brannsikring , kan overføres",
+            "57 850 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[110]",
+          "cells": [
+            "",
+            "74",
+            "Tilskudd til fartøyvern , kan overføres",
+            "75 120 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[111]",
+          "cells": [
+            "",
+            "75",
+            "Tilskudd til fartøyvernsentrene , kan overføres",
+            "18 552 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[112]",
+          "cells": [
+            "",
+            "77",
+            "Tilskudd til verdiskapningsarbeid på kulturminneområdet , kan overføres",
+            "7 986 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[113]",
+          "cells": [
+            "",
+            "79",
+            "Tilskudd til verdensarven , kan overføres",
+            "56 785 000",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "session": "2024-2025",
+      "id": "40034048",
+      "number": "210",
+      "date": "2024-12-16T00:00:00",
+      "title": "Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet",
+      "raw_budget_context": [],
+      "chapter_rows": [
+        {
+          "locator": "table[1]/tr[2]",
+          "cells": [
+            "1429",
+            "",
+            "Riksantikvaren",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[3]",
+          "cells": [
+            "",
+            "1",
+            "Driftsutgifter, økes med",
+            "5 796 000"
+          ]
+        },
+        {
+          "locator": "table[1]/tr[4]",
+          "cells": [
+            "",
+            "",
+            "fra kr 160 243 000 til kr 166 039 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[5]",
+          "cells": [
+            "",
+            "22",
+            "Flerårige prosjekter kulturminneforvaltning, kan overføres , reduseres med",
+            "3 000 000"
+          ]
+        },
+        {
+          "locator": "table[1]/tr[6]",
+          "cells": [
+            "",
+            "",
+            "fra kr 32 185 000 til kr 29 185 000",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "session": "2024-2025",
+      "id": "40034049",
+      "number": "211",
+      "date": "2024-12-16T00:00:00",
+      "title": "Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet",
+      "raw_budget_context": [],
+      "chapter_rows": [],
+      "text_context": "Stikkordsfullmakt Stortinget samtykker i at Klima- og miljødepartementet i 2024 kan tilføye stikkordet «kan overføres» til bevilgning under kap. 1429 Riksantikvaren, post 60 Kulturminnekompetanse i kommunene."
+    },
+    {
+      "session": "2024-2025",
+      "id": "40034038",
+      "number": "201",
+      "date": "2024-12-16T00:00:00",
+      "title": "Statsbudsjettet 2025 (kapitler fordelt til familie- og kulturkomiteen)",
+      "raw_budget_context": [
+        "På statsbudsjettet for 2025 bevilges under:"
+      ],
+      "chapter_rows": [
+        {
+          "locator": "table[1]/tr[100]",
+          "cells": [
+            "1429",
+            "",
+            "Riksantikvaren",
+            "",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[101]",
+          "cells": [
+            "",
+            "1",
+            "Driftsutgifter",
+            "163 173 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[102]",
+          "cells": [
+            "",
+            "21",
+            "Spesielle driftsutgifter",
+            "32 985 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[103]",
+          "cells": [
+            "",
+            "22",
+            "Flerårige prosjekt kulturmiljøforvaltning , kan overføres",
+            "33 408 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[104]",
+          "cells": [
+            "",
+            "60",
+            "Kulturmiljøkompetanse i kommunene",
+            "14 406 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[105]",
+          "cells": [
+            "",
+            "70",
+            "Tilskudd til automatisk fredete og andre arkeologiske kulturminner , kan overføres",
+            "41 952 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[106]",
+          "cells": [
+            "",
+            "71",
+            "Tilskudd til fredet kulturmiljø i privat eie , kan overføres",
+            "153 459 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[107]",
+          "cells": [
+            "",
+            "72",
+            "Tilskudd til tekniske og industrielle kulturminner , kan overføres",
+            "62 798 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[108]",
+          "cells": [
+            "",
+            "73",
+            "Tilskudd til bygninger og anlegg fra middelalderen og brannsikring , kan overføres",
+            "52 850 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[109]",
+          "cells": [
+            "",
+            "74",
+            "Tilskudd til fartøyvern , kan overføres",
+            "76 472 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[110]",
+          "cells": [
+            "",
+            "75",
+            "Tilskudd til fartøyvernsentrene , kan overføres",
+            "18 886 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[111]",
+          "cells": [
+            "",
+            "76",
+            "Tilskudd til utvalgte kulturlandskap i jordbruket og kulturlandskap i verdensarvområder , kan overføres",
+            "18 534 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[112]",
+          "cells": [
+            "",
+            "77",
+            "Tilskudd til verdiskapingsarbeid på kulturmiljøområdet , kan overføres",
+            "11 986 000",
+            ""
+          ]
+        },
+        {
+          "locator": "table[1]/tr[113]",
+          "cells": [
+            "",
+            "79",
+            "Tilskudd til verdensarven , kan overføres",
+            "56 785 000",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "literal_inventory": [
+    {
+      "session": "2023-2024",
+      "id": "40031491",
+      "number": "7",
+      "date": "2023-10-12T00:00:00",
+      "title": "Fordeling til komiteene av rammeområder med budsjettkapitler og utkast til romertallsvedtak vedrørende forslaget til statsbudsjett for 2024",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2023-2024",
+      "id": "40032936",
+      "number": "334",
+      "date": "2023-12-19T00:00:00",
+      "title": "Endringer i statsbudsjettet 2023 under Klima- og miljødepartementet",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2023-2024",
+      "id": "40033007",
+      "number": "408",
+      "date": "2023-12-20T00:00:00",
+      "title": "Endringer i statsbudsjettet 2023 under Klima- og miljødepartementet",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2023-2024",
+      "id": "40033719",
+      "number": "857",
+      "date": "2024-06-21T00:00:00",
+      "title": "Revidert nasjonalbudsjett 2024",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2023-2024",
+      "id": "40032928",
+      "number": "341",
+      "date": "2023-12-19T00:00:00",
+      "title": "Statsbudsjettet 2024 (kapitler fordelt til familie- og kulturkomiteen)",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2023-2024",
+      "id": "40032933",
+      "number": "346",
+      "date": "2023-12-19T00:00:00",
+      "title": "Statsbudsjettet 2024 (kapitler fordelt til familie- og kulturkomiteen)",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2023-2024",
+      "id": "40032934",
+      "number": "347",
+      "date": "2023-12-19T00:00:00",
+      "title": "Statsbudsjettet 2024 (kapitler fordelt til familie- og kulturkomiteen)",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2024-2025",
+      "id": "40033794",
+      "number": "6",
+      "date": "2024-10-15T00:00:00",
+      "title": "Fordeling til komiteene av rammeområder med budsjettkapitler og utkast til romertallsvedtak vedrørende forslaget til statsbudsjett for 2025",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2024-2025",
+      "id": "40034048",
+      "number": "210",
+      "date": "2024-12-16T00:00:00",
+      "title": "Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2024-2025",
+      "id": "40034049",
+      "number": "211",
+      "date": "2024-12-16T00:00:00",
+      "title": "Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2024-2025",
+      "id": "40035422",
+      "number": "1149",
+      "date": "2025-06-20T00:00:00",
+      "title": "Revidert nasjonalbudsjett 2025",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2024-2025",
+      "id": "40034038",
+      "number": "201",
+      "date": "2024-12-16T00:00:00",
+      "title": "Statsbudsjettet 2025 (kapitler fordelt til familie- og kulturkomiteen)",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2024-2025",
+      "id": "40034261",
+      "number": "401",
+      "date": "2024-12-19T00:00:00",
+      "title": "Tilfeldige utgifter og inntekter, finansadministrasjon, utbytte, 90-poster, Statens pensjonsfond utland",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    },
+    {
+      "session": "2024-2025",
+      "id": "40034297",
+      "number": "427",
+      "date": "2024-12-19T00:00:00",
+      "title": "Tilfeldige utgifter og inntekter, finansadministrasjon, utbytte, 90-poster, Statens pensjonsfond utland",
+      "scope": "literal 1429 text hit only; not an exhaustive semantic account detector"
+    }
+  ],
+  "inventory_scope": "all 2183 objects in two locally preserved responses; literal 1429 scan only; not yearly coverage"
+}

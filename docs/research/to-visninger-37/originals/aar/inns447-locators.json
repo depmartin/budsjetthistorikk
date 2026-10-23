@@ -1,0 +1,62 @@
+{
+  "schema": "research-locator-evidence-1",
+  "representation": "derived locator/context ledger; complete 28MB HTML remains in previous local research area",
+  "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2023-2024/inns-202324-447s/?all=true",
+  "retrieved_utc": "2026-10-22T07:04:03.260568+00:00",
+  "parent_sha256": "be1d2a2cc02d7d9af7fa3b97e59a2183b26511a93c8fadc85f5c428cf6126b41",
+  "parent_bytes": 28647675,
+  "role_context": "7. Komiteens tilråding Komiteens tilråding fremmes av medlemmene i komiteen fra Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti. Komiteen har for øvrig ingen merknader, viser til meldingen og proposisjonene og rår Stortinget til å gjøre følgende vedtak: A. Bevilgningsvedtak I I statsbudsjettet for 2024 gjøres følgende endringer: Kap. Post Formål Kroner Kroner 21 Statsrådet 1 Driftsutgifter , økes med 12 000 000 fra",
+  "role_xpath": "/html/body/div[2]/div/main/div[2]/div/div[7]/div/div/div/div[81]",
+  "rows": [
+    {
+      "xpath": "/html/body/div[2]/div/main/div[2]/div/div[7]/div/div/div/div[81]/div[1]/div[2]/div/div[2]/div[3]/div[2]/table/tbody/tr[821]",
+      "cells": [
+        "1429",
+        "",
+        "Riksantikvaren",
+        "",
+        ""
+      ]
+    },
+    {
+      "xpath": "/html/body/div[2]/div/main/div[2]/div/div[7]/div/div/div/div[81]/div[1]/div[2]/div/div[2]/div[3]/div[2]/table/tbody/tr[822]",
+      "cells": [
+        "",
+        "1",
+        "Driftsutgifter , reduseres med",
+        "",
+        "1 000 000"
+      ]
+    },
+    {
+      "xpath": "/html/body/div[2]/div/main/div[2]/div/div[7]/div/div/div/div[81]/div[1]/div[2]/div/div[2]/div[3]/div[2]/table/tbody/tr[823]",
+      "cells": [
+        "",
+        "",
+        "fra kr 161 243 000 til kr 160 243 000",
+        "",
+        ""
+      ]
+    },
+    {
+      "xpath": "/html/body/div[2]/div/main/div[2]/div/div[7]/div/div/div/div[81]/div[1]/div[2]/div/div[2]/div[3]/div[2]/table/tbody/tr[824]",
+      "cells": [
+        "",
+        "60",
+        "Kulturminnekompetanse i kommunene , økes med",
+        "",
+        "5 000 000"
+      ]
+    },
+    {
+      "xpath": "/html/body/div[2]/div/main/div[2]/div/div[7]/div/div/div/div[81]/div[1]/div[2]/div/div[2]/div[3]/div[2]/table/tbody/tr[825]",
+      "cells": [
+        "",
+        "",
+        "fra kr 9 406 000 til kr 14 406 000",
+        "",
+        ""
+      ]
+    }
+  ]
+}

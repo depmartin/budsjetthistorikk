@@ -1,0 +1,9 @@
+{
+  "file": "raw/session-2024-2025.xml",
+  "url": "https://data.stortinget.no/eksport/stortingsvedtak?sesjonid=2024-2025",
+  "fetched_utc": "2026-10-22T07:04:03.260568+00:00",
+  "status": 200,
+  "final_url": "https://data.stortinget.no/eksport/stortingsvedtak?sesjonid=2024-2025",
+  "bytes": 7479943,
+  "sha256": "c5f3b90046d23a0e4cacb24f681a01d7e5fd4468ab68fc3d646dc832bb9a4b42"
+}

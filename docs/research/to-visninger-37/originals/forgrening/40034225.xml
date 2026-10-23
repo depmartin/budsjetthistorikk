@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stortingsvedtak_oversikt xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://data.stortinget.no">
+  <respons_dato_tid>2026-10-22T09:04:03.5361627+02:00</respons_dato_tid>
+  <versjon>1.6</versjon>
+  <sesjon_id>2024-2025</sesjon_id>
+  <stortingsvedtak_liste>
+    <stortingsvedtak>
+      <id>40034225</id>
+      <sak_id>100889</sak_id>
+      <sak_lenke_url>//www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100889</sak_lenke_url>
+      <stortingsvedtak_dato_tid>2024-12-18T00:00:00</stortingsvedtak_dato_tid>
+      <stortingsvedtak_lenke_url>//www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Vedtak/Sak/?did=40034225&amp;p=100889</stortingsvedtak_lenke_url>
+      <stortingsvedtak_nummer>364</stortingsvedtak_nummer>
+      <stortingsvedtak_tekst>&lt;div class='strtngt_vedtaks'&gt;
+  &lt;div class='strtngt_romertallseksjon' data-strtngt-romertallseksjon-romertall='vi'&gt;
+    &lt;div class='strtngt_undertittel'&gt;
+      Fullmakt til forskuttering i oppdragsprosjekter
+    &lt;/div&gt;
+    &lt;ul class='strtngt_liste type_fri'&gt;
+      &lt;li class='strtngt_pkt'&gt;
+        &lt;p class='strtngt_a type_innrykk'&gt;
+          1. 	Stortinget samtykker
+i at Klima- og miljødepartementet i 2024 kan gi Norsk Polarinstitutt
+fullmakt til å sette i gang oppdragsprosjekter før finansieringen
+i sin helhet er innbetalt til Norsk Polarinstitutt, forutsatt at
+det er inngått en bindende avtale med betryggende sikkerhet om innbetaling
+mellom partene. Fullmakten begrenses oppad til 25 mill. kroner og
+gjelder utgifter ført på kap. 1471 Norsk Polarinstitutt, post 1
+Driftsutgifter mot inntekter ført på kap. 4471 Norsk Polarinstitutt,
+post 3 Inntekter fra diverse tjenesteyting.
+        &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li class='strtngt_pkt'&gt;
+        &lt;p class='strtngt_a type_innrykk'&gt;
+          2. 	Stortinget samtykker i at Klima- og
+miljødepartementet i 2024 kan gi Norsk Polarinstitutt fullmakt til
+å føre forskuddsutbetalinger i oppdragsprosjekter på mellomværendet
+med statskassen. Utgiftene vil bli rapportert til statsregnskapet
+på det tidspunkt inntektene i oppdragsprosjektene kommer til innbetaling
+og rapporteres til statsregnskapet.
+        &lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</stortingsvedtak_tekst>
+      <stortingsvedtak_tittel>Endringer i statsbudsjettet 2024 under Klima- og miljødepartementet</stortingsvedtak_tittel>
+      <stortingsvedtak_type>
+        <id>ANNET</id>
+        <navn>Allminnelige vedtak</navn>
+      </stortingsvedtak_type>
+    </stortingsvedtak>
+  </stortingsvedtak_liste>
+</stortingsvedtak_oversikt>
